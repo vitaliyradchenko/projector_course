@@ -1,0 +1,5 @@
+pandas
+sklearn
+pandas-profiling
+ipykernel
+ipywidgets
