@@ -3,3 +3,7 @@ sklearn
 pandas-profiling
 ipykernel
 ipywidgets
+catboost
+xgboost
+lightgbm
+ipywidgets
