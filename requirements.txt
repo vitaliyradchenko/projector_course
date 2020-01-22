@@ -7,3 +7,6 @@ catboost
 xgboost
 lightgbm
 ipywidgets
+statsmodels
+holidays
+tsfresh
