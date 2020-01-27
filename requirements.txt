@@ -10,3 +10,6 @@ ipywidgets
 statsmodels
 holidays
 tsfresh
+MulticoreTSNE
+umap-learn
+numba
