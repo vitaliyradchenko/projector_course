@@ -13,3 +13,4 @@ tsfresh
 MulticoreTSNE
 umap-learn
 numba
+xgbfir
