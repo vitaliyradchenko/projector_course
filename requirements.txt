@@ -16,3 +16,5 @@ numba
 xgbfir
 textblob
 nltk
+eli5
+shap
